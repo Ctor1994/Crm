@@ -1,0 +1,14 @@
+C:\Users\amelent\source\repos\CrmApp\CrmBL\bin\Debug\CrmBL.dll.config
+C:\Users\amelent\source\repos\CrmApp\CrmBL\bin\Debug\CrmBL.dll
+C:\Users\amelent\source\repos\CrmApp\CrmBL\bin\Debug\CrmBL.pdb
+C:\Users\amelent\source\repos\CrmApp\CrmBL\bin\Debug\EntityFramework.dll
+C:\Users\amelent\source\repos\CrmApp\CrmBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amelent\source\repos\CrmApp\CrmBL\bin\Debug\EntityFramework.xml
+C:\Users\amelent\source\repos\CrmApp\CrmBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amelent\source\repos\CrmApp\CrmBL\obj\Debug\CrmBL.csprojAssemblyReference.cache
+C:\Users\amelent\source\repos\CrmApp\CrmBL\obj\Debug\CrmBL.csproj.CoreCompileInputs.cache
+C:\Users\amelent\source\repos\CrmApp\CrmBL\obj\Debug\CrmBL.csproj.CopyComplete
+C:\Users\amelent\source\repos\CrmApp\CrmBL\obj\Debug\CrmBL.dll
+C:\Users\amelent\source\repos\CrmApp\CrmBL\obj\Debug\CrmBL.pdb
+C:\Users\amelent\source\repos\CrmApp\CrmBL\obj\Debug\CrmBL.Migrations.Init.resources
+C:\Users\amelent\source\repos\CrmApp\CrmBL\obj\Debug\CrmBL.csproj.GenerateResource.cache
