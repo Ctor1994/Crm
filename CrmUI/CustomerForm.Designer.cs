@@ -74,6 +74,7 @@ namespace CrmUI
             this.Controls.Add(this.lblInputName);
             this.Controls.Add(this.txbName);
             this.Name = "CustomerForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CustomerForm";
             this.ResumeLayout(false);
             this.PerformLayout();

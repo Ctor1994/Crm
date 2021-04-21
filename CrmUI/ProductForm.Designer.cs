@@ -129,6 +129,7 @@ namespace CrmUI
             this.Controls.Add(this.lblInputName);
             this.Controls.Add(this.txbName);
             this.Name = "ProductForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ProductForm";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
